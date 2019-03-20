@@ -1,0 +1,43 @@
+#head{
+    background-color: rgb(177, 160, 6);
+    width: 80%; height:80px;
+    text-align:right;
+    margin: 5px 10% 10px;
+    font-size: 25px;
+    border: none;border-radius:0;   
+}
+div{
+    background-color:rgb(112, 245, 245);
+    width: 68%;height:auto;
+    margin-bottom: 10px;
+    border:4px solid rgb(81, 83, 92);
+    border-radius: 8px; 
+    float: left;
+    padding: 5px;
+}
+
+#box{
+    background-color: rgb(238, 77, 125);
+    width: 10%;height: 120px;
+    border:4px solid rgb(41, 63, 129);
+    border-radius: 8px; 
+    margin:5px 10px 0 10%;
+}
+
+#d2,#d3{
+    font-size: 20px;
+    display: flex;
+}
+
+ul{
+    line-height: 1.5;
+    margin:0; 
+    color: rgb(41,63, 129);
+}
+#f{
+    color: rgb(41,63, 129)
+}
+
+.dash{
+    border-bottom: 2px dotted black;
+}

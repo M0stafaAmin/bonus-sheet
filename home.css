@@ -1,0 +1,22 @@
+body{
+    background-image:url(cs.jpg);
+}
+#d1{
+    background-color: rgb(43, 88, 87);
+    width: 60%; height:80px;
+    text-align:center;
+    margin: 100px 20%;
+    font-size: 30px;
+    border: none;
+    border-radius:5px;  
+    padding: 5px;
+}
+#d2{
+    background-color: rgb(74, 219, 207);
+    width: 60%; height:80px;
+    margin: auto;
+    font-size: 20px;
+    border: none;
+    border-radius:5px;  
+    padding: 5px;
+}

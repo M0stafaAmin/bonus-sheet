@@ -28,7 +28,9 @@ div{
     font-size: 20px;
     display: flex;
 }
-
+#d3{
+   margin: 5px 20% 5px 22%;
+}
 ul{
     line-height: 1.5;
     margin:0; 
@@ -40,4 +42,9 @@ ul{
 
 .dash{
     border-bottom: 2px dotted black;
+}
+.clear{
+    clear: both ;
+    padding:0 ;
+    border: none ;
 }
